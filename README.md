@@ -31,8 +31,8 @@ A modern web application for internship and course management built with React a
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/YOUR_USERNAME/internhub.git
-   cd internhub
+   git clone https://github.com/SatyamK1703/INTERNHUB.git
+   cd INTERNHUB
    ```
 
 2. Install dependencies
@@ -126,7 +126,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
+Your Name - [@khushal_kr_choudhary](https://instagram.com/khushal_kr_choudhary) - satyamk1078@gmail.com
 
-Project Link: [https://github.com/YOUR_USERNAME/internhub](https://github.com/YOUR_USERNAME/internhub)
+Project Link: [https://github.com/SatyamK1703/INTERNHUB.git](https://github.com/SatyamK1703/INTERNHUB.git)
 
